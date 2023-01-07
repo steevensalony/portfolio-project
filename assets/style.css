@@ -1,0 +1,117 @@
+* {
+  font-family: 'Courier New', Courier, monospace;
+  color: black;
+  background-color: bisque;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 22px;
+}
+
+/* header */
+
+header {
+  width: 100%;
+  height: 5.136rem;
+  border-bottom: 10px outset orangered;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: fixed;
+  z-index: 1;
+  opacity: 1;
+}
+
+header img {
+  height: 4.273rem;
+  margin-left: 0.455rem;
+}
+
+main {
+  position: relative;
+  top: 7.182rem;
+  display: flex;
+  flex-flow: column;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 3rem;
+}
+
+/* title section */
+
+#title {
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: center;
+  flex: 35rem;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  background-image: url(./images/637ef1f502c0f83324cbf1ad_ABM\ College\ Web\ developer\ main.jpg);
+}
+
+#title h1 {
+  width: 100%;
+  padding: 0.5%;
+  font-size: 5rem;
+  opacity: 0.8;
+}
+
+/* about section */
+
+#about {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex: 35rem;
+  border: 20px outset orangered;
+}
+
+#about img {
+  display: flex;
+  margin: 1rem;
+  border-style: double;
+  max-height: 600px;
+}
+
+#about h2 {
+  font-size: 3rem;
+}
+
+/* work section */
+
+#work h2 {
+  font-size: 4rem;
+  margin: 2rem;
+}
+
+.first_work {
+  width: 500px;
+  height: 350px;
+}
+
+
+.others {
+  display: flex;
+  margin: 50px;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+/* contact section */
+
+#contact {
+  margin: 50px;
+}
+
+#contact h2 {
+  font-size: 3rem;
+}
+
+footer {
+  margin: 150px;
+}
