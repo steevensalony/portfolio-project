@@ -9,7 +9,7 @@ I built this website as challenge given by our bootcamp instructors, it's there 
 ## Instalation
 
 To install this code, simply click on the url to my repository [https://github.com/steevensalony/portfolio-project] and clone the ssh key to your local machine. 
-this is also the link to the website
+this is also the link to the website https://steevensalony.github.io/portfolio-project/
 
 ## Usage
 
