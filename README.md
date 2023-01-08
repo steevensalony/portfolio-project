@@ -1,6 +1,8 @@
 # Portfolio Website
 
-## Descriptiom
+![2ED29AD2-696A-4B39-B332-1FD0227D0E3B](https://user-images.githubusercontent.com/108702715/211218714-43c831a7-8a21-4a45-9467-b3e6f881e747.jpeg)
+
+## Description
 
 This is a portfolio website that showcases my work to potential employers
 
